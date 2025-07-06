@@ -41,7 +41,8 @@
 
 
 ### 📄 Resume
-📥 [Download My Resume](https://github.com/kshitisha/kshitisha/raw/main/kshitisha_negi_resume.pdf)
+📥 [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/kshitisha_negi_resume.pdf)
+
 
 
 ---
