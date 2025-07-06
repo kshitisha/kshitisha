@@ -1,31 +1,34 @@
 <h1 align="center">✨ Kshitisha Negi ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=AIML+student+%7C+DSA+%26+ML+Explorer;Intern+%40+Celebal+Tech;Building+cool+AI+and+Web+apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👩‍💻+AIML+Student+%7C+Future+ML+Engineer;💼+Intern+at+Celebal+Technologies;💡+Learning+LangChain%2C+GNNs+%26+MLOps;🚀+Building+AI+%26+Web+Apps+One+Project+at+a+Time" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
+
 - 🎓 AIML undergrad passionate about **AI, ML, and Web Dev**
-- 🛠 Currently exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
-- 💻 Building projects in **Python, Java, JavaScript & Express.js**
-- 📚 Grinding **DSA in Java** one question at a time
-- ☕ I turn coffee into deployed apps like [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha)
+- 💼 Currently interning at **Celebal Technologies**
+- ⚙️ Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
+- 💻 Building in **Python, Java, JavaScript, Express.js**
+- 📚 Grinding **DSA in Java** one problem at a time
+- ☕ Turning caffeine into clean code — see [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha)
 
 ---
 
 ### 🚀 Projects That Slap
 
-| 🚧 Project | 🔍 Description |
+| 🔧 Project | 📌 Description |
 |-----------|----------------|
-| 🔍 [RAG + Pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | A smart Q&A RAG model using OpenAI, LangChain + Pinecone |
-| 🧠 [Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects image forgery using GNN + KNN edge proximity |
-| 🎨 [AI Person Integration](https://github.com/kshitisha/AI_Person_Integration) | Image editing: Person + background integration with color harmony |
-| ☕ [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha) | Coffee e-com site built with Express, HTML, CSS & JS |
+| 🧠 [RAG + Pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | Context-aware Q&A using OpenAI + LangChain + Pinecone |
+| 🔍 [Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects forgery using GNN + KNN edge proximity |
+| 🎨 [AI Person Integration](https://github.com/kshitisha/AI_Person_Integration) | Smart image blending with color harmonization |
+| ☕ [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha) | Coffee e-comm site built with Express, HTML, CSS & JS |
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kshitisha&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
@@ -49,7 +52,13 @@
 
 ---
 
-### 🌍 Let’s Connect
+### 📄 Resume
+
+📥 [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/resume.pdf) *(Upload yours if you haven’t yet!)*
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kshitisha-negi" target="_blank">
@@ -63,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
-<p align="center"><i>“AI is not just the future — it's the now. Let's build it.” 💥</i></p>
+<p align="center"><i>“Code like a poet, debug like a detective.” 🕵️‍♀️</i></p>
