@@ -9,7 +9,6 @@
 ### About Me
 
 - AIML undergrad passionate about **AI, ML, and Web Dev**
-- Currently interning at **Celebal Technologies**
 - Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
 - Building in **Python, Java, JavaScript, Express.js**
 - Grinding **DSA in Java** one problem at a time
