@@ -54,7 +54,7 @@
 
 ### 📄 Resume
 
-📥 [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/resume.pdf) *(Upload yours if you haven’t yet!)*
+📥 [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/resume.pdf)
 
 ---
 
@@ -62,10 +62,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kshitisha-negi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kshitisha-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kshitisha%20Negi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/kshitisha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kshitisha-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-kshitisha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/kshitishaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-kshitishaa-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </p>
 
@@ -75,4 +78,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
-<p align="center"><i>“Code like a poet, debug like a detective.” 🕵️‍♀️</i></p>
+<p align="center"><i>Training my mind like I train my models — always optimizing. 🕵️‍♀️</i></p>
