@@ -20,7 +20,7 @@
 
 | Project | Description |
 |-----------|----------------|
-|[RAG + Pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | Context-aware Q&A using OpenAI + LangChain + Pinecone |
+|[RAG-openai-pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | Context-aware Q&A using OpenAI + LangChain + Pinecone |
 |[Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects forgery using GNN + KNN edge proximity |
 |[AI Person Integration](https://github.com/kshitisha/AI_Person_Integration) | Smart image blending with color harmonization |
 |[CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha) | Coffee e-comm site built with Express, HTML, CSS & JS |
