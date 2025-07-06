@@ -1,4 +1,4 @@
-<h1 align="center">✨ Kshitisha Negi ✨</h1>
+<h1 align="center"> Kshitisha Negi </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👩‍💻+AIML+Student+%7C+Future+ML+Engineer;💼+Intern+at+Celebal+Technologies;💡+Learning+LangChain%2C+GNNs+%26+MLOps;🚀+Building+AI+%26+Web+Apps+One+Project+at+a+Time" alt="Typing SVG" />
@@ -6,29 +6,29 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 AIML undergrad passionate about **AI, ML, and Web Dev**
-- 💼 Currently interning at **Celebal Technologies**
-- ⚙️ Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
-- 💻 Building in **Python, Java, JavaScript, Express.js**
-- 📚 Grinding **DSA in Java** one problem at a time
-- ☕ Turning caffeine into clean code — see [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha)
+- AIML undergrad passionate about **AI, ML, and Web Dev**
+- Currently interning at **Celebal Technologies**
+- Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
+- Building in **Python, Java, JavaScript, Express.js**
+- Grinding **DSA in Java** one problem at a time
+- Turning caffeine into clean code — see [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha)
 
 ---
 
-### 🚀 Projects That Slap
+### Projects That Slap
 
-| 🔧 Project | 📌 Description |
+| Project | Description |
 |-----------|----------------|
-| 🧠 [RAG + Pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | Context-aware Q&A using OpenAI + LangChain + Pinecone |
-| 🔍 [Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects forgery using GNN + KNN edge proximity |
-| 🎨 [AI Person Integration](https://github.com/kshitisha/AI_Person_Integration) | Smart image blending with color harmonization |
-| ☕ [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha) | Coffee e-comm site built with Express, HTML, CSS & JS |
+|[RAG + Pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | Context-aware Q&A using OpenAI + LangChain + Pinecone |
+|[Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects forgery using GNN + KNN edge proximity |
+|[AI Person Integration](https://github.com/kshitisha/AI_Person_Integration) | Smart image blending with color harmonization |
+|[CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha) | Coffee e-comm site built with Express, HTML, CSS & JS |
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kshitisha&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
@@ -40,14 +40,14 @@
 
 
 
-### 📄 Resume
-📥 [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/kshitisha_negi_resume.pdf)
+###  Resume
+ [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/kshitisha_negi_resume.pdf)
 
 
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kshitisha-negi" target="_blank">
@@ -67,4 +67,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
-<p align="center"><i>Training my mind like I train my models — always optimizing. 🕵️‍♀️</i></p>
+<p align="center"><i>Training my mind like I train my models — always optimizing. </i></p>
