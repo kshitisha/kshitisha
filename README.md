@@ -38,23 +38,11 @@
 
 ---
 
-### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EJS-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
 
 ### 📄 Resume
+📥 [Download My Resume](https://github.com/kshitisha/kshitisha/raw/main/kshitisha_negi_resume.pdf)
 
-📥 [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/resume.pdf)
 
 ---
 
