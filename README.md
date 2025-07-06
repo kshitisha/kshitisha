@@ -1,8 +1,12 @@
 <h1 align="center"> Kshitisha Negi </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👩‍💻+AIML+Student+%7C+Future+ML+Engineer;GNN & Deep Learning Practitioner💡+Learning+LangChain%2C+GNNs+%26+MLOps;🚀+Building+AI+%26+Web+Apps+One+Project+at+a+Time" alt="Typing SVG" />
+
 </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👩‍💻+AIML+Student+%7C+Future+ML+Engineer;GNN & Deep Learning Practitioner💡+Learning+LangChain%2C+GNNs+%26+MLOps;🚀+Building+AI+%26+Web+Apps+One+Project+at+a+Time" alt="Typing SVG" />
+</p>
+
 
 ---
 
