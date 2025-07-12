@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Debug+%26+Dominate" alt="Typing SVG Banner" />
 </p>
-### About Me
+About Me
 
 - AIML undergrad passionate about **AI, ML, and Web Dev**
 - Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
