@@ -9,7 +9,7 @@ About Me
 - Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
 - Building in **Python, Java, JavaScript, Express.js**
 - Grinding **DSA in Java** one problem at a time
-- Turning caffeine into clean code — see [CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha)
+- Diagnosing plant diseases with ML precision — check out my latest Plant Pathology Project [Plant Pathology](https://github.com/kshitisha/PlantPathology)
 
 ---
 
@@ -20,7 +20,7 @@ About Me
 |[RAG-openai-pinecone](https://github.com/kshitisha/Rag-openai-pinecone) | Context-aware Q&A using OpenAI + LangChain + Pinecone |
 |[Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects forgery using GNN + KNN edge proximity |
 |[AI Person Integration](https://github.com/kshitisha/AI_Person_Integration) | Smart image blending with color harmonization |
-|[CaffeinatedByKshitisha](https://github.com/kshitisha/caffeinatedbykshitisha) | Coffee e-comm site built with Express, HTML, CSS & JS |
+|[Plant Pathology](https://github.com/kshitisha/PlantPathology) |Classifies plant leaf diseases using HOG features + Random Forest/SVM/XGBoost  |
 
 ---
 
