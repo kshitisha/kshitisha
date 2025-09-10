@@ -37,7 +37,7 @@ About Me
 
 
 ###  Resume
- [Download My Resume](https://github.com/kshitisha/kshitisha/blob/main/kshitisha_negi_resume.pdf)
+ [Download My Resume](https://drive.google.com/file/d/1QfMmjDE2Zq5OF6Z6GUrXvrZ_Oal84XA-/view?usp=drive_link)
 
 
 
@@ -46,7 +46,7 @@ About Me
 ###  Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kshitisha-negi" target="_blank">
+  <a href="https://www.linkedin.com/in/kshitisha3333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kshitisha%20Negi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/kshitisha" target="_blank">
