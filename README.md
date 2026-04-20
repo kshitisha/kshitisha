@@ -17,7 +17,7 @@ About Me
 
 | Project | Description |
 |-----------|----------------|
-|[HireHub-Smart Job Discovery}(https://github.com/kshitisha/HireHub) | Scalable MERN job portal with JWT auth, REST APIs, role-based access, and application tracking |
+|[HireHub-Smart Job Discovery](https://github.com/kshitisha/HireHub) | Scalable MERN job portal with JWT auth, REST APIs, role-based access, and application tracking |
 |[AI Memory Management (LangGraph)](https://github.com/kshitisha/AI-Memory-Management-for-a-Domain-Specific-Conversational-Assistant) | AI Memory Management (LangGraph) | Builds a memory-aware conversational system with layered memory (session + persistent), rolling summarization, and context-aware generation, exploring scalable memory design using LangGraph |
 |[Forgery Detection using GNN](https://github.com/kshitisha/Image-Forgery-Detection-using-GNN) | Detects forgery using GNN + KNN edge proximity |
 |[Plant Pathology](https://github.com/kshitisha/PlantPathology) |Classifies plant leaf diseases using HOG features + Random Forest/SVM/XGBoost  |
