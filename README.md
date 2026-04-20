@@ -9,7 +9,7 @@ About Me
 - Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
 - Building in **Python, Java, JavaScript, Express.js**
 - Grinding **DSA in Java** one problem at a time
-- Not just experimenting anymore — shipping full-stack products like HireHub  [LangGraph Project](https://github.com/kshitisha/AI-Memory-Management-for-a-Domain-Specific-Conversational-Assistant) 
+- Not just experimenting anymore — shipping full-stack products like HireHub  [HireHub](https://github.com/kshitisha/HireHub) 
 
 ---
 
