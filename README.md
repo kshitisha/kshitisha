@@ -38,7 +38,7 @@ About Me
 
 
 ###  Resume
- [Download My Resume](https://drive.google.com/file/d/1MOQZRiOnpu6vyQeTXOo4PXkhr4P8PRcf/view?usp=drive_link)
+ [Download My Resume](https://drive.google.com/file/d/1e0HLP4D1aaANZcGZYLGy40l3CA1KmkN7/view?usp=drive_link)
 
 
 
