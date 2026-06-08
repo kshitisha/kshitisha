@@ -7,7 +7,6 @@ About Me
 
 - AIML undergrad passionate about **AI, ML, and Web Dev**
 - Exploring **LangChain, OpenAI APIs, GNNs, and MLOps**
-- Building in **Python, Java, JavaScript, Express.js**
 - Grinding **DSA in Java** one problem at a time
 - Building and deploying AI-powered applications using LLMs, LangGraph, React, and modern cloud tooling
 ---
