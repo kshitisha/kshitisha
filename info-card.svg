@@ -57,11 +57,10 @@
   <text class="mono dim l1" x="20" y="78">─────────────────────────────────</text>
 
   <!-- OS / Role row -->
-  <text class="mono l2" x="20" y="100"><tspan class="key">role</tspan><tspan class="dim">............</tspan><tspan class="val">Backend &amp; AI Developer</tspan></text>
-  <text class="mono l3" x="20" y="120"><tspan class="key">company</tspan><tspan class="dim">.........</tspan><tspan class="val">New Age</tspan></text>
-  <text class="mono l4" x="20" y="140"><tspan class="key">location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
-  <text class="mono l5" x="20" y="160"><tspan class="key">education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
-  <text class="mono l6" x="20" y="180"><tspan class="key">cert</tspan><tspan class="dim">............</tspan><tspan class="val">Azure AI Engineer Associate ✦</tspan></text>
+  <text class="mono l2" x="20" y="100"><tspan class="key"> Current Role</tspan><tspan class="dim">............</tspan><tspan class="val">Backend &amp; AI Developer</tspan></text>
+  <text class="mono l3" x="20" y="120"><tspan class="key">Company</tspan><tspan class="dim">.........</tspan><tspan class="val">New Age</tspan></text>
+  <text class="mono l4" x="20" y="140"><tspan class="key">Location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
+  <text class="mono l5" x="20" y="160"><tspan class="key">Education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
 
   <text class="mono dim l7" x="20" y="202">─────────────────────────────────</text>
 
