@@ -53,21 +53,21 @@
   <text class="mono dim l1" x="20" y="78">─────────────────────────────────</text>
 
   <!-- OS / Role row -->
-  <text class="mono l2" x="20" y="100"><tspan class="key">role</tspan><tspan class="dim">............</tspan><tspan class="val">Backend &amp; AI Developer</tspan></text>
-  <text class="mono l3" x="20" y="120"><tspan class="key">company</tspan><tspan class="dim">.........</tspan><tspan class="val">New Age</tspan></text>
-  <text class="mono l4" x="20" y="140"><tspan class="key">location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
-  <text class="mono l5" x="20" y="160"><tspan class="key">education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
-  <text class="mono l6" x="20" y="180"><tspan class="key">cert</tspan><tspan class="dim">............</tspan><tspan class="val">Azure AI Engineer Associate ✦</tspan></text>
+  <text class="mono l2" x="20" y="100"><tspan class="key">role</tspan><tspan class="dim">............</tspan><tspan class="val">AI/ML Engineer</tspan></text>
+  <text class="mono l3" x="20" y="120"><tspan class="key">location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
+  <text class="mono l4" x="20" y="140"><tspan class="key">education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
+  <text class="mono l5" x="20" y="160"><tspan class="key">cert</tspan><tspan class="dim">............</tspan><tspan class="val">Azure AI Engineer Associate ✦</tspan></text>
 
-  <text class="mono dim l7" x="20" y="202">─────────────────────────────────</text>
+  <text class="mono dim l6" x="20" y="182">─────────────────────────────────</text>
 
-  <!-- Experience -->
-  <text class="mono l8" x="20" y="224"><tspan class="head">experience</tspan></text>
-  <text class="mono l9" x="20" y="244"><tspan class="dim">├─</tspan><tspan class="key"> New Age</tspan></text>
-  <text class="mono l10" x="20" y="262"><tspan class="dim">│ </tspan><tspan class="val">Backend APIs · AI systems</tspan></text>
-  <text class="mono l11" x="20" y="280"><tspan class="dim">│ </tspan><tspan class="val">LLM integrations &amp; deployment</tspan></text>
-  <text class="mono l12" x="20" y="298"><tspan class="dim">└─</tspan><tspan class="key"> Agility AI</tspan></text>
-  <text class="mono l13" x="20" y="316"><tspan class="dim"> </tspan><tspan class="val">Multi-Agent RAG pipelines</tspan></text>
+  <!-- Internships -->
+  <text class="mono l7"  x="20" y="204"><tspan class="head">internships</tspan></text>
+  <text class="mono l8"  x="20" y="224"><tspan class="dim">├─</tspan><tspan class="key"> Agility AI</tspan><tspan class="dim"> ───────────────</tspan></text>
+  <text class="mono l9"  x="20" y="242"><tspan class="dim">│  </tspan><tspan class="val">Multi-agent RAG systems</tspan></text>
+  <text class="mono l10" x="20" y="260"><tspan class="dim">│  </tspan><tspan class="val">NLP-based ETL pipelines</tspan></text>
+  <text class="mono l11" x="20" y="280"><tspan class="dim">└─</tspan><tspan class="key"> Celebal Technologies</tspan><tspan class="dim"> ──────</tspan></text>
+  <text class="mono l12" x="20" y="298"><tspan class="dim">   </tspan><tspan class="val">ML model training &amp; eval</tspan></text>
+  <text class="mono l13" x="20" y="316"><tspan class="dim">   </tspan><tspan class="val">Plant pathology classification</tspan></text>
 
   <text class="mono dim l14" x="20" y="338">─────────────────────────────────</text>
 
@@ -79,6 +79,8 @@
   <text class="mono l19" x="20" y="440"><tspan class="key">backend</tspan><tspan class="dim">.........</tspan><tspan class="val">FastAPI · Express.js</tspan></text>
   <text class="mono l20" x="20" y="460"><tspan class="key">cloud</tspan><tspan class="dim">...........</tspan><tspan class="val">Azure · GCP</tspan></text>
   <text class="mono l21" x="20" y="480"><tspan class="key">frontend</tspan><tspan class="dim">........</tspan><tspan class="val">React</tspan></text>
+
+  <text class="mono dim l22" x="20" y="502">─────────────────────────────────</text>
 
   <!-- Color palette dots -->
   <g class="l23">
