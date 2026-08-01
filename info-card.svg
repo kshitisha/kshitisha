@@ -1,92 +1,82 @@
-<svg viewBox="0 0 520 520" xmlns="http://www.w3.org/2000/svg" width="520" height="520">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-  <style>
-    .mono { font-family: "Courier New", Courier, monospace; }
-    .key  { fill: #58a6ff; font-size: 13px; }
-    .val  { fill: #c9d1d9; font-size: 13px; }
-    .head { fill: #f0883e; font-size: 14px; font-weight: bold; }
-    .dim  { fill: #484f58; font-size: 13px; }
-    .prompt { fill: #3fb950; font-size: 13px; }
-    .sep  { fill: #21262d; }
-
-    /* staggered fade-in for each line */
-    .l0  { animation: fi .001s 0.00s forwards; opacity:0; }
-    .l1  { animation: fi .001s 0.08s forwards; opacity:0; }
-    .l2  { animation: fi .001s 0.16s forwards; opacity:0; }
-    .l3  { animation: fi .001s 0.24s forwards; opacity:0; }
-    .l4  { animation: fi .001s 0.32s forwards; opacity:0; }
-    .l5  { animation: fi .001s 0.40s forwards; opacity:0; }
-    .l6  { animation: fi .001s 0.48s forwards; opacity:0; }
-    .l7  { animation: fi .001s 0.56s forwards; opacity:0; }
-    .l8  { animation: fi .001s 0.64s forwards; opacity:0; }
-    .l9  { animation: fi .001s 0.72s forwards; opacity:0; }
-    .l10 { animation: fi .001s 0.80s forwards; opacity:0; }
-    .l11 { animation: fi .001s 0.88s forwards; opacity:0; }
-    .l12 { animation: fi .001s 0.96s forwards; opacity:0; }
-    .l13 { animation: fi .001s 1.04s forwards; opacity:0; }
-    .l14 { animation: fi .001s 1.12s forwards; opacity:0; }
-    .l15 { animation: fi .001s 1.20s forwards; opacity:0; }
-    .l16 { animation: fi .001s 1.28s forwards; opacity:0; }
-    .l17 { animation: fi .001s 1.36s forwards; opacity:0; }
-    .l18 { animation: fi .001s 1.44s forwards; opacity:0; }
-    .l19 { animation: fi .001s 1.52s forwards; opacity:0; }
-    .l20 { animation: fi .001s 1.60s forwards; opacity:0; }
-    .l21 { animation: fi .001s 1.68s forwards; opacity:0; }
-    .l22 { animation: fi .001s 1.76s forwards; opacity:0; }
-    .l23 { animation: fi .001s 1.84s forwards; opacity:0; }
-    .l24 { animation: fi .001s 1.92s forwards; opacity:0; }
-    .l25 { animation: fi .001s 2.00s forwards; opacity:0; }
-    .l26 { animation: fi .001s 2.08s forwards; opacity:0; }
-    .l27 { animation: fi .001s 2.16s forwards; opacity:0; }
-    .l28 { animation: fi .001s 2.24s forwards; opacity:0; }
-    .l29 { animation: fi .001s 2.32s forwards; opacity:0; }
-    .l30 { animation: fi .001s 2.40s forwards; opacity:0; }
-    .l31 { animation: fi .001s 2.48s forwards; opacity:0; }
-    .l32 { animation: fi .001s 2.56s forwards; opacity:0; }
-
-    @keyframes fi { to { opacity: 1; } }
-  </style>
-
-  <!-- Title bar -->
-  <rect x="0" y="0" width="520" height="28" fill="#161b22"/>
-  <circle cx="16" cy="14" r="5" fill="#ff5f56"/>
-  <circle cx="32" cy="14" r="5" fill="#ffbd2e"/>
-  <circle cx="48" cy="14" r="5" fill="#27c93f"/>
-  <text class="mono dim" x="180" y="19" font-size="11">kshitisha@github — neofetch</text>
-
-  <!-- neofetch user@host header -->
-  <text class="mono l0" x="20" y="60">
-    <tspan class="prompt">kshitisha</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#58a6ff">github</tspan>
-  </text>
-  <text class="mono dim l1" x="20" y="78">─────────────────────────────────</text>
-
   <!-- OS / Role row -->
-  <text class="mono l2" x="20" y="100"><tspan class="key">role</tspan><tspan class="dim">............</tspan><tspan class="val">AI/ML Engineer</tspan></text>
-  <text class="mono l3" x="20" y="120"><tspan class="key">location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
-  <text class="mono l4" x="20" y="140"><tspan class="key">education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
-  <text class="mono l5" x="20" y="160"><tspan class="key">cert</tspan><tspan class="dim">............</tspan><tspan class="val">Azure AI Engineer Associate ✦</tspan></text>
+  <text class="mono l2" x="20" y="100">
+    <tspan class="key">role</tspan><tspan class="dim">............</tspan><tspan class="val">Backend &amp; AI Developer</tspan>
+  </text>
 
-  <text class="mono dim l6" x="20" y="182">─────────────────────────────────</text>
+  <text class="mono l3" x="20" y="120">
+    <tspan class="key">company</tspan><tspan class="dim">.........</tspan><tspan class="val">New Age</tspan>
+  </text>
 
-  <!-- Internships -->
-  <text class="mono l7"  x="20" y="204"><tspan class="head">internships</tspan></text>
-  <text class="mono l8"  x="20" y="224"><tspan class="dim">├─</tspan><tspan class="key"> Agility AI</tspan><tspan class="dim"> ───────────────</tspan></text>
-  <text class="mono l9"  x="20" y="242"><tspan class="dim">│  </tspan><tspan class="val">Multi-agent RAG systems</tspan></text>
-  <text class="mono l10" x="20" y="260"><tspan class="dim">│  </tspan><tspan class="val">NLP-based ETL pipelines</tspan></text>
-  <text class="mono l11" x="20" y="280"><tspan class="dim">└─</tspan><tspan class="key"> Celebal Technologies</tspan><tspan class="dim"> ──────</tspan></text>
-  <text class="mono l12" x="20" y="298"><tspan class="dim">   </tspan><tspan class="val">ML model training &amp; eval</tspan></text>
-  <text class="mono l13" x="20" y="316"><tspan class="dim">   </tspan><tspan class="val">Plant pathology classification</tspan></text>
+  <text class="mono l4" x="20" y="140">
+    <tspan class="key">location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan>
+  </text>
 
-  <text class="mono dim l14" x="20" y="338">─────────────────────────────────</text>
+  <text class="mono l5" x="20" y="160">
+    <tspan class="key">education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan>
+  </text>
 
-  <!-- Stack -->
-  <text class="mono l15" x="20" y="360"><tspan class="head">stack</tspan></text>
-  <text class="mono l16" x="20" y="380"><tspan class="key">llm/agents</tspan><tspan class="dim">.....</tspan><tspan class="val">LangChain · LangGraph</tspan></text>
-  <text class="mono l17" x="20" y="400"><tspan class="key">ml</tspan><tspan class="dim">...............</tspan><tspan class="val">PyTorch · OpenCV</tspan></text>
-  <text class="mono l18" x="20" y="420"><tspan class="key">vector db</tspan><tspan class="dim">.......</tspan><tspan class="val">ChromaDB · FAISS</tspan></text>
-  <text class="mono l19" x="20" y="440"><tspan class="key">backend</tspan><tspan class="dim">.........</tspan><tspan class="val">FastAPI · Express.js</tspan></text>
-  <text class="mono l20" x="20" y="460"><tspan class="key">cloud</tspan><tspan class="dim">...........</tspan><tspan class="val">Azure · GCP</tspan></text>
-  <text class="mono l21" x="20" y="480"><tspan class="key">frontend</tspan><tspan class="dim">........</tspan><tspan class="val">React</tspan></text>
+  <text class="mono l6" x="20" y="180">
+    <tspan class="key">cert</tspan><tspan class="dim">............</tspan><tspan class="val">Azure AI Engineer Associate ✦</tspan>
+  </text>
 
-  <text class="mono dim l22" x="20" y="502">─────────────────────────────────</text>
-</svg>
+  <text class="mono dim l7" x="20" y="202">─────────────────────────────────</text>
+
+  <!-- Experience -->
+  <text class="mono l8" x="20" y="224">
+    <tspan class="head">experience</tspan>
+  </text>
+
+  <text class="mono l9" x="20" y="244">
+    <tspan class="dim">├─</tspan><tspan class="key"> New Age</tspan>
+  </text>
+
+  <text class="mono l10" x="20" y="262">
+    <tspan class="dim">│  </tspan><tspan class="val">Backend APIs · AI systems</tspan>
+  </text>
+
+  <text class="mono l11" x="20" y="280">
+    <tspan class="dim">│  </tspan><tspan class="val">LLM integrations &amp; deployment</tspan>
+  </text>
+
+  <text class="mono l12" x="20" y="300">
+    <tspan class="dim">├─</tspan><tspan class="key"> Agility AI</tspan>
+  </text>
+
+  <text class="mono l13" x="20" y="318">
+    <tspan class="dim">│  </tspan><tspan class="val">Multi-agent RAG pipelines</tspan>
+  </text>
+
+  <text class="mono l14" x="20" y="336">
+    <tspan class="dim">└─</tspan><tspan class="key"> Celebal Technologies</tspan>
+  </text>
+
+  <text class="mono l15" x="20" y="354">
+    <tspan class="dim">   </tspan><tspan class="val">ML model training &amp; evaluation</tspan>
+  </text>
+
+  <text class="mono dim l16" x="20" y="376">─────────────────────────────────</text>
+
+  <!-- Expertise -->
+  <text class="mono l17" x="20" y="398">
+    <tspan class="head">expertise</tspan>
+  </text>
+
+  <text class="mono l18" x="20" y="418">
+    <tspan class="key">ai</tspan><tspan class="dim">..............</tspan><tspan class="val">Agents · RAG · LLM Apps</tspan>
+  </text>
+
+  <text class="mono l19" x="20" y="438">
+    <tspan class="key">backend</tspan><tspan class="dim">.........</tspan><tspan class="val">FastAPI · Express · REST</tspan>
+  </text>
+
+  <text class="mono l20" x="20" y="458">
+    <tspan class="key">data</tspan><tspan class="dim">............</tspan><tspan class="val">Postgres · MongoDB · FAISS</tspan>
+  </text>
+
+  <text class="mono l21" x="20" y="478">
+    <tspan class="key">cloud</tspan><tspan class="dim">...........</tspan><tspan class="val">Azure · GCP · Docker</tspan>
+  </text>
+
+  <text class="mono l22" x="20" y="500">
+    <tspan class="key">building</tspan><tspan class="dim">........</tspan><tspan class="val">Production AI products</tspan>
+  </text>
