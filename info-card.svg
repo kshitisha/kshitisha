@@ -89,8 +89,4 @@
   <text class="mono l21" x="20" y="480"><tspan class="key">frontend</tspan><tspan class="dim">........</tspan><tspan class="val">React</tspan></text>
 
   <text class="mono dim l22" x="20" y="502">─────────────────────────────────</text>
- <!-- Cursor blink at end -->
-  <rect class="l28" x="20" y="638" width="8" height="16" fill="#58a6ff">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.5s"/>
-  </rect>
 </svg>
