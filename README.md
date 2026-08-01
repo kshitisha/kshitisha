@@ -14,7 +14,6 @@
 <h3><code>kshitisha@github ~ $ cat links.txt</code></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitisha3333/)
-[![Azure](https://img.shields.io/badge/Azure_AI_Certified-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/kshitishanegi-1780/credentials/b872775d87b2280e)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kshitishaa/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitisha4thewin@gmail.com)
 
