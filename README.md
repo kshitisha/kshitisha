@@ -19,7 +19,7 @@
 
 <h3><code>kshitisha@github ~ $ cat links.txt</code></h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitisha-negi)
-[![Azure](https://img.shields.io/badge/Azure_AI_Certified-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitisha3333/)
+[![Azure](https://img.shields.io/badge/Azure_AI_Certified-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/KshitishaNegi-1780/credentials/B872775D87B2280E)
 
 </div>
