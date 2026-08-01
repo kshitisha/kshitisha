@@ -90,12 +90,7 @@
 
   <text class="mono dim l22" x="20" y="502">─────────────────────────────────</text>
 
-  <!-- Projects -->
-  <text class="mono l23" x="20" y="524"><tspan class="head">projects</tspan></text>
-  <text class="mono l24" x="20" y="544"><tspan class="dim">▸ </tspan><tspan class="key">NeuralDesk</tspan><tspan class="val"> · multi-tenant AI SaaS</tspan></text>
-  <text class="mono l25" x="20" y="564"><tspan class="dim">▸ </tspan><tspan class="key">AI Creative Strategist</tspan><tspan class="val"> · 7-agent</tspan></text>
-
-  <text class="mono dim l26" x="20" y="586">─────────────────────────────────</text>
+  
 
   <!-- Color palette dots -->
   <g class="l27">
