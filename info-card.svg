@@ -53,49 +53,31 @@
   <text class="mono dim l1" x="20" y="78">─────────────────────────────────</text>
 
   <!-- OS / Role row -->
-  <text class="mono l2" x="20" y="100"><tspan class="key">role</tspan><tspan class="dim">............</tspan><tspan class="val">AI/ML Engineer</tspan></text>
-  <text class="mono l3" x="20" y="120"><tspan class="key">location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
-  <text class="mono l4" x="20" y="140"><tspan class="key">education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
-  <text class="mono l5" x="20" y="160"><tspan class="key">cert</tspan><tspan class="dim">............</tspan><tspan class="val">Azure AI Engineer Associate ✦</tspan></text>
+  <text class="mono l2" x="20" y="100"><tspan class="key">Current Role</tspan><tspan class="dim">............</tspan><tspan class="val">Backend &amp; AI Developer</tspan></text>
+  <text class="mono l3" x="20" y="120"><tspan class="key">Company</tspan><tspan class="dim">.........</tspan><tspan class="val">New Age</tspan></text>
+  <text class="mono l4" x="20" y="140"><tspan class="key">Location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
+  <text class="mono l5" x="20" y="160"><tspan class="key">Education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
 
   <text class="mono dim l6" x="20" y="182">─────────────────────────────────</text>
 
-  <!-- Internships -->
-  <text class="mono l7"  x="20" y="204"><tspan class="head">internships</tspan></text>
-  <text class="mono l8"  x="20" y="224"><tspan class="dim">├─</tspan><tspan class="key"> Agility AI</tspan><tspan class="dim"> ───────────────</tspan></text>
-  <text class="mono l9"  x="20" y="242"><tspan class="dim">│  </tspan><tspan class="val">Multi-agent RAG systems</tspan></text>
-  <text class="mono l10" x="20" y="260"><tspan class="dim">│  </tspan><tspan class="val">NLP-based ETL pipelines</tspan></text>
-  <text class="mono l11" x="20" y="280"><tspan class="dim">└─</tspan><tspan class="key"> Celebal Technologies</tspan><tspan class="dim"> ──────</tspan></text>
-  <text class="mono l12" x="20" y="298"><tspan class="dim">   </tspan><tspan class="val">ML model training &amp; eval</tspan></text>
-  <text class="mono l13" x="20" y="316"><tspan class="dim">   </tspan><tspan class="val">Plant pathology classification</tspan></text>
+  <!-- Experience -->
+  <text class="mono l7" x="20" y="204"><tspan class="head">experience</tspan></text>
+  <text class="mono l8" x="20" y="224"><tspan class="dim">├─</tspan><tspan class="key"> New Age</tspan></text>
+  <text class="mono l9" x="20" y="242"><tspan class="dim">│ </tspan><tspan class="val">Backend APIs · AI systems</tspan></text>
+  <text class="mono l10" x="20" y="260"><tspan class="dim">│ </tspan><tspan class="val">LLM integrations &amp; deployment</tspan></text>
+  <text class="mono l11" x="20" y="278"><tspan class="dim">└─</tspan><tspan class="key"> Agility AI</tspan></text>
+  <text class="mono l12" x="20" y="296"><tspan class="dim"> </tspan><tspan class="val">Multi-Agent RAG pipelines</tspan></text>
 
-  <text class="mono dim l14" x="20" y="338">─────────────────────────────────</text>
+  <text class="mono dim l13" x="20" y="318">─────────────────────────────────</text>
 
   <!-- Stack -->
-  <text class="mono l15" x="20" y="360"><tspan class="head">stack</tspan></text>
-  <text class="mono l16" x="20" y="380"><tspan class="key">llm/agents</tspan><tspan class="dim">.....</tspan><tspan class="val">LangChain · LangGraph</tspan></text>
-  <text class="mono l17" x="20" y="400"><tspan class="key">ml</tspan><tspan class="dim">...............</tspan><tspan class="val">PyTorch · OpenCV</tspan></text>
-  <text class="mono l18" x="20" y="420"><tspan class="key">vector db</tspan><tspan class="dim">.......</tspan><tspan class="val">ChromaDB · FAISS</tspan></text>
-  <text class="mono l19" x="20" y="440"><tspan class="key">backend</tspan><tspan class="dim">.........</tspan><tspan class="val">FastAPI · Express.js</tspan></text>
-  <text class="mono l20" x="20" y="460"><tspan class="key">cloud</tspan><tspan class="dim">...........</tspan><tspan class="val">Azure · GCP</tspan></text>
-  <text class="mono l21" x="20" y="480"><tspan class="key">frontend</tspan><tspan class="dim">........</tspan><tspan class="val">React</tspan></text>
+  <text class="mono l14" x="20" y="340"><tspan class="head">stack</tspan></text>
+  <text class="mono l15" x="20" y="360"><tspan class="key">llm/agents</tspan><tspan class="dim">.....</tspan><tspan class="val">LangChain · LangGraph</tspan></text>
+  <text class="mono l16" x="20" y="380"><tspan class="key">ml</tspan><tspan class="dim">...............</tspan><tspan class="val">PyTorch · OpenCV</tspan></text>
+  <text class="mono l17" x="20" y="400"><tspan class="key">vector db</tspan><tspan class="dim">.......</tspan><tspan class="val">ChromaDB · FAISS</tspan></text>
+  <text class="mono l18" x="20" y="420"><tspan class="key">backend</tspan><tspan class="dim">.........</tspan><tspan class="val">FastAPI · Express.js</tspan></text>
+  <text class="mono l19" x="20" y="440"><tspan class="key">cloud</tspan><tspan class="dim">...........</tspan><tspan class="val">Azure · GCP</tspan></text>
+  <text class="mono l20" x="20" y="460"><tspan class="key">frontend</tspan><tspan class="dim">........</tspan><tspan class="val">React</tspan></text>
 
-  <text class="mono dim l22" x="20" y="502">─────────────────────────────────</text>
-
-  <!-- Color palette dots -->
-  <g class="l23">
-    <circle cx="20"  cy="524" r="9" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-    <circle cx="44"  cy="524" r="9" fill="#161b22"/>
-    <circle cx="68"  cy="524" r="9" fill="#58a6ff"/>
-    <circle cx="92"  cy="524" r="9" fill="#3fb950"/>
-    <circle cx="116" cy="524" r="9" fill="#f0883e"/>
-    <circle cx="140" cy="524" r="9" fill="#ff7b72"/>
-    <circle cx="164" cy="524" r="9" fill="#d2a8ff"/>
-    <circle cx="188" cy="524" r="9" fill="#c9d1d9"/>
-  </g>
-
-  <!-- Cursor blink at end -->
-  <rect class="l24" x="20" y="554" width="8" height="16" fill="#58a6ff">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.5s"/>
-  </rect>
+  <text class="mono dim l21" x="20" y="482">─────────────────────────────────</text>
 </svg>
