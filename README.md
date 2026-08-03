@@ -22,7 +22,7 @@
 | project | description | links |
 |:--------|:------------|:-----:|
 | **NeuralDesk** | Multi-tenant AI chatbot SaaS · RAG · LangGraph · FastAPI | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kshitisha/neuraldesk) [![Live](https://img.shields.io/badge/Live-▲-black?style=flat-square)](https://neuraldesk-puce.vercel.app) |
-| **AI Creative Strategist** | 7-agent brand strategy pipeline · LangChain · React | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kshitisha/ai-creative-strategist) [![Live](https://img.shields.io/badge/Live-▲-black?style=flat-square)](https://ai-creative-strategist.vercel.app) |
+| **AI Creative Strategist** | 7-agent brand strategy pipeline · LangChain · React | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kshitisha/ai-creative-strategist) [![Live](https://img.shields.io/badge/Live-▲-black?style=flat-square)](https://ai-creative-strategist-omega.vercel.app/) |
 
 <br>
 
