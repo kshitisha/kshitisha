@@ -1,40 +1,46 @@
-<svg viewBox="0 0 520 600" xmlns="http://www.w3.org/2000/svg" width="520" height="600">
+<svg viewBox="0 0 520 620" xmlns="http://www.w3.org/2000/svg" width="520" height="620">
   <rect width="100%" height="100%" fill="#0d1117"/>
   <style>
     .mono { font-family: "Courier New", Courier, monospace; }
     .key  { fill: #58a6ff; font-size: 13px; }
     .val  { fill: #c9d1d9; font-size: 13px; }
-    .head { fill: #f0883e; font-size: 14px; font-weight: bold; }
+    .head { fill: #f0883e; font-size: 13px; font-weight: bold; }
     .dim  { fill: #484f58; font-size: 13px; }
     .prompt { fill: #3fb950; font-size: 13px; }
     .sep  { fill: #21262d; }
+    .acc  { fill: #d2a8ff; font-size: 13px; }
 
-    /* staggered fade-in for each line */
     .l0  { animation: fi .001s 0.00s forwards; opacity:0; }
-    .l1  { animation: fi .001s 0.08s forwards; opacity:0; }
-    .l2  { animation: fi .001s 0.16s forwards; opacity:0; }
-    .l3  { animation: fi .001s 0.24s forwards; opacity:0; }
-    .l4  { animation: fi .001s 0.32s forwards; opacity:0; }
-    .l5  { animation: fi .001s 0.40s forwards; opacity:0; }
-    .l6  { animation: fi .001s 0.48s forwards; opacity:0; }
-    .l7  { animation: fi .001s 0.56s forwards; opacity:0; }
-    .l8  { animation: fi .001s 0.64s forwards; opacity:0; }
-    .l9  { animation: fi .001s 0.72s forwards; opacity:0; }
-    .l10 { animation: fi .001s 0.80s forwards; opacity:0; }
-    .l11 { animation: fi .001s 0.88s forwards; opacity:0; }
-    .l12 { animation: fi .001s 0.96s forwards; opacity:0; }
-    .l13 { animation: fi .001s 1.04s forwards; opacity:0; }
-    .l14 { animation: fi .001s 1.12s forwards; opacity:0; }
-    .l15 { animation: fi .001s 1.20s forwards; opacity:0; }
-    .l16 { animation: fi .001s 1.28s forwards; opacity:0; }
-    .l17 { animation: fi .001s 1.36s forwards; opacity:0; }
-    .l18 { animation: fi .001s 1.44s forwards; opacity:0; }
-    .l19 { animation: fi .001s 1.52s forwards; opacity:0; }
-    .l20 { animation: fi .001s 1.60s forwards; opacity:0; }
-    .l21 { animation: fi .001s 1.68s forwards; opacity:0; }
-    .l22 { animation: fi .001s 1.76s forwards; opacity:0; }
-    .l23 { animation: fi .001s 1.84s forwards; opacity:0; }
-    .l24 { animation: fi .001s 1.92s forwards; opacity:0; }
+    .l1  { animation: fi .001s 0.07s forwards; opacity:0; }
+    .l2  { animation: fi .001s 0.14s forwards; opacity:0; }
+    .l3  { animation: fi .001s 0.21s forwards; opacity:0; }
+    .l4  { animation: fi .001s 0.28s forwards; opacity:0; }
+    .l5  { animation: fi .001s 0.35s forwards; opacity:0; }
+    .l6  { animation: fi .001s 0.42s forwards; opacity:0; }
+    .l7  { animation: fi .001s 0.49s forwards; opacity:0; }
+    .l8  { animation: fi .001s 0.56s forwards; opacity:0; }
+    .l9  { animation: fi .001s 0.63s forwards; opacity:0; }
+    .l10 { animation: fi .001s 0.70s forwards; opacity:0; }
+    .l11 { animation: fi .001s 0.77s forwards; opacity:0; }
+    .l12 { animation: fi .001s 0.84s forwards; opacity:0; }
+    .l13 { animation: fi .001s 0.91s forwards; opacity:0; }
+    .l14 { animation: fi .001s 0.98s forwards; opacity:0; }
+    .l15 { animation: fi .001s 1.05s forwards; opacity:0; }
+    .l16 { animation: fi .001s 1.12s forwards; opacity:0; }
+    .l17 { animation: fi .001s 1.19s forwards; opacity:0; }
+    .l18 { animation: fi .001s 1.26s forwards; opacity:0; }
+    .l19 { animation: fi .001s 1.33s forwards; opacity:0; }
+    .l20 { animation: fi .001s 1.40s forwards; opacity:0; }
+    .l21 { animation: fi .001s 1.47s forwards; opacity:0; }
+    .l22 { animation: fi .001s 1.54s forwards; opacity:0; }
+    .l23 { animation: fi .001s 1.61s forwards; opacity:0; }
+    .l24 { animation: fi .001s 1.68s forwards; opacity:0; }
+    .l25 { animation: fi .001s 1.75s forwards; opacity:0; }
+    .l26 { animation: fi .001s 1.82s forwards; opacity:0; }
+    .l27 { animation: fi .001s 1.89s forwards; opacity:0; }
+    .l28 { animation: fi .001s 1.96s forwards; opacity:0; }
+    .l29 { animation: fi .001s 2.03s forwards; opacity:0; }
+    .l30 { animation: fi .001s 2.10s forwards; opacity:0; }
 
     @keyframes fi { to { opacity: 1; } }
   </style>
@@ -44,57 +50,66 @@
   <circle cx="16" cy="14" r="5" fill="#ff5f56"/>
   <circle cx="32" cy="14" r="5" fill="#ffbd2e"/>
   <circle cx="48" cy="14" r="5" fill="#27c93f"/>
-  <text class="mono dim" x="180" y="19" font-size="11">kshitisha@github — neofetch</text>
+  <text class="mono dim" x="170" y="19" font-size="11">kshitisha@github — neofetch</text>
 
-  <!-- neofetch user@host header -->
-  <text class="mono l0" x="20" y="60">
+  <!-- user@host -->
+  <text class="mono l0" x="20" y="58">
     <tspan class="prompt">kshitisha</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#58a6ff">github</tspan>
   </text>
-  <text class="mono dim l1" x="20" y="78">─────────────────────────────────</text>
+  <text class="mono dim l1" x="20" y="74">───────────────────────────────────</text>
 
-  <!-- OS / Role row -->
-  <text class="mono l2" x="20" y="100"><tspan class="key">Current Role</tspan><tspan class="dim">............</tspan><tspan class="val">Backend &amp; AI Developer</tspan></text>
-  <text class="mono l3" x="20" y="120"><tspan class="key">Company</tspan><tspan class="dim">.........</tspan><tspan class="val">New Age</tspan></text>
-  <text class="mono l4" x="20" y="140"><tspan class="key">Location</tspan><tspan class="dim">........</tspan><tspan class="val">Dehradun, India</tspan></text>
-  <text class="mono l5" x="20" y="160"><tspan class="key">Education</tspan><tspan class="dim">.......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
+  <!-- Identity -->
+  <text class="mono l2" x="20" y="94"><tspan class="key">role</tspan><tspan class="dim">...........</tspan><tspan class="val">backend &amp; ai developer</tspan></text>
+  <text class="mono l3" x="20" y="112"><tspan class="key">company</tspan><tspan class="dim">........</tspan><tspan class="val">New Age</tspan></text>
+  <text class="mono l4" x="20" y="130"><tspan class="key">location</tspan><tspan class="dim">.......</tspan><tspan class="val">Dehradun, India</tspan></text>
+  <text class="mono l5" x="20" y="148"><tspan class="key">education</tspan><tspan class="dim">......</tspan><tspan class="val">B.Tech CSE (AI/ML) · UPES '26</tspan></text>
+  <text class="mono l6" x="20" y="166"><tspan class="key">cert</tspan><tspan class="dim">...........</tspan><tspan class="acc">Azure AI Engineer Associate ✦</tspan></text>
 
-  <text class="mono dim l6" x="20" y="182">─────────────────────────────────</text>
+  <text class="mono dim l7" x="20" y="184">───────────────────────────────────</text>
 
   <!-- Experience -->
-  <text class="mono l7" x="20" y="204"><tspan class="head">experience</tspan></text>
-  <text class="mono l8" x="20" y="224"><tspan class="dim">├─</tspan><tspan class="key"> New Age</tspan></text>
-  <text class="mono l9" x="20" y="242"><tspan class="dim">│ </tspan><tspan class="val">Backend APIs · AI systems</tspan></text>
-  <text class="mono l10" x="20" y="260"><tspan class="dim">│ </tspan><tspan class="val">LLM integrations &amp; deployment</tspan></text>
-  <text class="mono l11" x="20" y="278"><tspan class="dim">└─</tspan><tspan class="key"> Agility AI</tspan></text>
-  <text class="mono l12" x="20" y="296"><tspan class="dim"> </tspan><tspan class="val">Multi-Agent RAG pipelines</tspan></text>
+  <text class="mono l8"  x="20" y="202"><tspan class="head">experience</tspan></text>
+  <text class="mono l9"  x="20" y="220"><tspan class="dim">├─ </tspan><tspan class="key">Celebal Technologies</tspan><tspan class="dim">  Jun–Aug '25</tspan></text>
+  <text class="mono l10" x="20" y="237"><tspan class="dim">│  </tspan><tspan class="val">Data Science Intern · plant pathology CV</tspan></text>
+  <text class="mono l11" x="20" y="255"><tspan class="dim">├─ </tspan><tspan class="key">Agility AI</tspan><tspan class="dim">            Aug–Nov '25</tspan></text>
+  <text class="mono l12" x="20" y="272"><tspan class="dim">│  </tspan><tspan class="val">AI Intern · multi-agent RAG &amp; NLP ETL</tspan></text>
+  <text class="mono l13" x="20" y="290"><tspan class="dim">└─ </tspan><tspan class="key">New Age</tspan><tspan class="dim">                Jul '26 – now</tspan></text>
+  <text class="mono l14" x="20" y="307"><tspan class="dim">   </tspan><tspan class="val">Backend &amp; AI Developer · LLM pipelines</tspan></text>
 
-  <text class="mono dim l13" x="20" y="318">─────────────────────────────────</text>
+  <text class="mono dim l15" x="20" y="325">───────────────────────────────────</text>
 
   <!-- Stack -->
-  <text class="mono l14" x="20" y="340"><tspan class="head">stack</tspan></text>
-  <text class="mono l15" x="20" y="360"><tspan class="key">llm/agents</tspan><tspan class="dim">.....</tspan><tspan class="val">LangChain · LangGraph</tspan></text>
-  <text class="mono l16" x="20" y="380"><tspan class="key">ml</tspan><tspan class="dim">...............</tspan><tspan class="val">PyTorch · OpenCV</tspan></text>
-  <text class="mono l17" x="20" y="400"><tspan class="key">vector db</tspan><tspan class="dim">.......</tspan><tspan class="val">ChromaDB · FAISS</tspan></text>
-  <text class="mono l18" x="20" y="420"><tspan class="key">backend</tspan><tspan class="dim">.........</tspan><tspan class="val">FastAPI · Express.js</tspan></text>
-  <text class="mono l19" x="20" y="440"><tspan class="key">cloud</tspan><tspan class="dim">...........</tspan><tspan class="val">Azure · GCP</tspan></text>
-  <text class="mono l20" x="20" y="460"><tspan class="key">frontend</tspan><tspan class="dim">........</tspan><tspan class="val">React</tspan></text>
+  <text class="mono l16" x="20" y="343"><tspan class="head">stack</tspan></text>
+  <text class="mono l17" x="20" y="361"><tspan class="key">llm/agents</tspan><tspan class="dim">....</tspan><tspan class="val">LangChain · LangGraph</tspan></text>
+  <text class="mono l18" x="20" y="379"><tspan class="key">ml</tspan><tspan class="dim">..............</tspan><tspan class="val">PyTorch · OpenCV</tspan></text>
+  <text class="mono l19" x="20" y="397"><tspan class="key">vector db</tspan><tspan class="dim">......</tspan><tspan class="val">ChromaDB · FAISS</tspan></text>
+  <text class="mono l20" x="20" y="415"><tspan class="key">backend</tspan><tspan class="dim">........</tspan><tspan class="val">FastAPI · Express.js</tspan></text>
+  <text class="mono l21" x="20" y="433"><tspan class="key">cloud</tspan><tspan class="dim">..........</tspan><tspan class="val">Azure · GCP</tspan></text>
+  <text class="mono l22" x="20" y="451"><tspan class="key">frontend</tspan><tspan class="dim">.......</tspan><tspan class="val">React</tspan></text>
 
-  <text class="mono dim l21" x="20" y="482">─────────────────────────────────</text>
+  <text class="mono dim l23" x="20" y="469">───────────────────────────────────</text>
 
-  <!-- Color palette dots -->
-  <g class="l22">
-    <circle cx="20"  cy="504" r="9" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-    <circle cx="44"  cy="504" r="9" fill="#161b22"/>
-    <circle cx="68"  cy="504" r="9" fill="#58a6ff"/>
-    <circle cx="92"  cy="504" r="9" fill="#3fb950"/>
-    <circle cx="116" cy="504" r="9" fill="#f0883e"/>
-    <circle cx="140" cy="504" r="9" fill="#ff7b72"/>
-    <circle cx="164" cy="504" r="9" fill="#d2a8ff"/>
-    <circle cx="188" cy="504" r="9" fill="#c9d1d9"/>
+  <!-- Projects -->
+  <text class="mono l24" x="20" y="487"><tspan class="head">projects</tspan></text>
+  <text class="mono l25" x="20" y="505"><tspan class="dim">▸ </tspan><tspan class="key">NeuralDesk</tspan><tspan class="val"> · multi-tenant AI SaaS</tspan></text>
+  <text class="mono l26" x="20" y="523"><tspan class="dim">▸ </tspan><tspan class="key">AI Creative Strategist</tspan><tspan class="val"> · 7-agent pipeline</tspan></text>
+
+  <text class="mono dim l27" x="20" y="541">───────────────────────────────────</text>
+
+  <!-- Color palette -->
+  <g class="l28">
+    <circle cx="20"  cy="561" r="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <circle cx="42"  cy="561" r="8" fill="#161b22"/>
+    <circle cx="64"  cy="561" r="8" fill="#58a6ff"/>
+    <circle cx="86"  cy="561" r="8" fill="#3fb950"/>
+    <circle cx="108" cy="561" r="8" fill="#f0883e"/>
+    <circle cx="130" cy="561" r="8" fill="#ff7b72"/>
+    <circle cx="152" cy="561" r="8" fill="#d2a8ff"/>
+    <circle cx="174" cy="561" r="8" fill="#c9d1d9"/>
   </g>
 
-  <!-- Cursor blink at end -->
-  <rect class="l23" x="20" y="534" width="8" height="16" fill="#58a6ff">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.5s"/>
+  <!-- Blinking cursor -->
+  <rect class="l29" x="20" y="588" width="8" height="15" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.1s"/>
   </rect>
 </svg>
