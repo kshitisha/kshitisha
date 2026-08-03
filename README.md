@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitisha3333)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kshitishaa)
-[![Azure](https://img.shields.io/badge/Azure_AI_Certified-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/)
+
 [![Email](https://img.shields.io/badge/Email-kshitishanegi%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitishanegi@gmail.com)
 
 </div>
