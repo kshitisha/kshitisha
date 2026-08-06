@@ -108,8 +108,5 @@
     <circle cx="174" cy="561" r="8" fill="#c9d1d9"/>
   </g>
 
-  <!-- Blinking cursor -->
-  <rect class="l29" x="20" y="588" width="8" height="15" fill="#58a6ff">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.1s"/>
-  </rect>
+ 
 </svg>
