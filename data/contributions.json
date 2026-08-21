@@ -1,14 +1,14 @@
 {
   "username": "kshitisha",
-  "fetched": "2026-08-20",
-  "total": 238,
+  "fetched": "2026-08-21",
+  "total": 239,
   "best_day": {
     "date": "2026-08-02",
     "count": 4,
     "level": 4
   },
   "current_streak": 0,
-  "longest_streak": 19,
+  "longest_streak": 20,
   "days": [
     {
       "date": "2025-08-17",
@@ -1852,6 +1852,11 @@
     },
     {
       "date": "2026-08-20",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-21",
       "count": 0,
       "level": 0
     }
